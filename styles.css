@@ -68,7 +68,7 @@ footer {
     
 }
 #cursos img {
-    width: 45%; /* Establece el ancho deseado para todas las imágenes */
+    width: 30%; /* Establece el ancho deseado para todas las imágenes */
     height: auto; /* Permite que la altura se ajuste automáticamente para mantener la proporción original */
     border: 10px solid #2c2b2b; /* Añade un borde para mayor claridad */
 }
